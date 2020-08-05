@@ -1,0 +1,4 @@
+Loading BuildTools version: git-BuildTools-9bc34aa-118 (#118)
+Java Version: Java 8
+Current Path: C:\Users\uzord\Desktop\Cartella\Uzord's Mapping Pack\Nazioni\Europe\Italia\Bandiere Antiche\Pre-Unificazione\.
+Please do not run in a path with special characters!
